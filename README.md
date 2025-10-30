@@ -1,8 +1,22 @@
 # Server Performance Stats
-This project contains a shell script that gathers key server performance statistics, including CPU usage, memory usage, disk usage, and top resource-consuming processes.
 
-## Project URL
-[https://github.com/hedobriggs/Server-Performance-Stats](https://github.com/hedobriggs/Server-Performance-Stats)
+This project contains a shell script (`server-statistics.sh`) that gathers key server performance statistics, including:
 
-## Script File
-[server-statistics.sh](https://github.com/hedobriggs/Server-Performance-Stats/blob/main/server-statistics.sh)
+- Total CPU usage  
+- Total memory usage (free vs used, including percentage)  
+- Total disk usage (free vs used, including percentage)  
+- Top 5 processes by CPU usage  
+- Top 5 processes by memory usage  
+- OS version, uptime, load average, logged-in users, failed login attempts
+
+----------------------------
+
+# Project Page URL
+
+https://github.com/hedobriggs/Server-Performance-Stats
+
+----------------------------
+
+# Script File
+
+https://github.com/hedobriggs/Server-Performance-Stats/blob/main/server-statistics.sh
